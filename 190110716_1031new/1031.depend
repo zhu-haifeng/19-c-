@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1572513351 source:d:\c\1031\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1572521474 source:c:\users\carl\desktop\c实验\1031\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1572620668 source:c:\users\carl\desktop\c实验\190110716_朱海峰_实验九new\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1572934864 source:c:\users\carl\desktop\cexpriment\190110716_1031new\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

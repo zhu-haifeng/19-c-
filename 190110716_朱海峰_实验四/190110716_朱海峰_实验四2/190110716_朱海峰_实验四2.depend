@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1570699173 source:d:\c\190110716_朱海峰_实验四2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1570702032 source:c:\users\carl\desktop\c实验\四\190110716_朱海峰_实验四2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1570702344 source:c:\users\carl\desktop\c实验\190110716_朱海峰_实验四\190110716_朱海峰_实验四2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+

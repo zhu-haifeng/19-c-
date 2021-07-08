@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1572424866 source:c:\users\carl\desktop\c实验\190110716_朱海峰_实验九\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1572627289 source:c:\users\carl\desktop\cexpriment\190110716_朱海峰_实验九\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
